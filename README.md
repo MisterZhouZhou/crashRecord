@@ -31,3 +31,5 @@ methdo2:
 **<h3> 缓存记录图：</h3>**
 
  ![](https://github.com/MisterZhouZhou/crashRecord/blob/master/images/crash.png)
+ 
+ ![](https://github.com/MisterZhouZhou/crashRecord/blob/master/images/crash3.png)
